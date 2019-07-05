@@ -12,3 +12,30 @@ patch:
         patched: '2019-06-03T17:53:05.610Z'
     - unirest > request > hawk > cryptiles > boom > hoek:
         patched: '2019-06-03T17:53:05.610Z'
+  SNYK-JS-LODASH-450202:
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - firebase > @firebase/firestore > grpc > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-05T15:16:04.097Z'
